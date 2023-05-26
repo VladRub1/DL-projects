@@ -1,6 +1,6 @@
 # Object Detection
 
-* **[YOLO](./YOLO)**: собственная полная реализация SOTA one-shot детектора **YOLO**.
+* **[YOLO](./YOLO-project-Rubanov.ipynb)**: собственная полная реализация SOTA one-shot детектора **YOLO**.
 В проекте реализованы все элементы пайплайна модели:
   * обработка выборки для YOLO-формата
   * эффективные аугментации данных с помощью библиотеки [Albumentations](https://github.com/albumentations-team/albumentations/)
