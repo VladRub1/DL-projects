@@ -1,4 +1,4 @@
-# DL_projects
+# DL-projects
 
 In this repository, you will find implemented **custom projects in Deep Learning**, 
 which are divided into various task domains:
