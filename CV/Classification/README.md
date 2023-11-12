@@ -1,7 +1,11 @@
 # Image Classification
 
-* **[Tiny ImageNet](./Tiny%20ImageNet)**: решение задачи классификации изображений на датасете 
-**Tiny ImageNet** (200 классов). Обучение классификатора ResNet18 с нуля, дообучение 
-**ViT ConvNext Large** (**200 млн** параметров) под данную задачу. В проекте также 
-реализованы предобработка данных, логирование метрик и процесса обучения в **Wandb**, 
-есть подробный отчет об экспериментах.
+**[Tiny ImageNet](./Tiny%20ImageNet)**: solution for image classification task 
+  on the **Tiny ImageNet dataset** (_200 classes_):
+  * training of the **ResNet18** classifier from scratch
+  * fine-tuning of **ViT ConvNext Large** (_200 million parameters_) for this 
+    specific task 
+  * the project also includes:
+    * data preprocessing
+    * logging of metrics and the training process in **Wandb**
+    * a detailed report on the experiments

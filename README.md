@@ -1,6 +1,9 @@
 # DL_projects
 
-Здесь будут лежать проекты по **Deep Learning**, в разных областях задач:
-* **[CV](./CV)**: работы в сфере **Computer Vision** (классификация изображений, детекция, семантическая сегментация)
-* **[Fully Connected](./Fully%20Connected)**: **полносвязные нейронные сети** (работа с табличными данными) и их вариации (генеративные сети и др.)
-* **[NLP](./NLP)**: задачи обработки естественного языка (**natural language processing**)
+In this repository, you will find implemented **custom projects in Deep Learning**, 
+which are divided into various task domains:
+* **[CV](./CV)**: Works in the field of **Computer Vision** (_image classification, detection, 
+semantic segmentation_)
+* **[Fully Connected](./Fully%20Connected)**: **Fully Connected neural networks** (_working with 
+tabular data_) and their variations (_generative networks_, etc.)
+* **[NLP](./NLP)**: tasks in **Natural Language Processing** (_NLP_)

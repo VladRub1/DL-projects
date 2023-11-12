@@ -1,10 +1,14 @@
 # YearPredictionMSD
 
-В данном проекте решается задача регрессии — предсказания года выпуска песни
-на основе различных музыкальных характеристик.
+This project addresses a **regression task** — **predicting the release year 
+of a song** based on various musical characteristics.
 
-В работе используется [Million Song Dataset](http://www.millionsongdataset.com/).
+The work utilizes the [Million Song Dataset](http://www.millionsongdataset.com/).
 
-Задача решается с помощью полносвязной нейронной сети. Кроме того, в проекте реализованы
-исследовательский этап анализа данных (EDA), предобработка данных, реализация архитектуры модели,
-логирование метрик в Weights & Biases, подробный отчет об экспериментах.
+The task is solved using a **fully connected neural network**. 
+Additionally, the project includes:
+* an exploratory data analysis (_EDA_) phase
+* _data preprocessing_
+* _implementation of the model architecture_
+* logging metrics in _Weights & Biases_
+* a _detailed report_ on the experiments.

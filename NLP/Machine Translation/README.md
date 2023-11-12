@@ -1,15 +1,17 @@
 # Machine Translation
 
-Здесь представлен проект по собственной реализации глубинных моделей для задачи машинного перевода с английского на
-русский язык.
+This project presents a custom implementation of deep models for 
+**machine translation** from English to Russian.
 
-Для обучения использовался [датасет](./data.txt) описаний отелей и апартаментов на английском и русском языках.
+The training used a [dataset](./data.txt) of hotel and apartment 
+descriptions in both English and Russian.
 
-[Здесь](./NeuralMachineTranslation-eng-rus-RubanovVladislav.ipynb) можно найти код с:
-* анализом данных,
-* собственной реализацией NLP-моделей на основе архитектур RNN и transformer,
-* обучением моделей,
-* примерами работы моделей, метриками,
-* инструкцией (последний раздел) по скачиванию и использованию лучшей обученной модели из HuggingHace Hub.
+[Here](./NeuralMachineTranslation-eng-rus-RubanovVladislav.ipynb) you can find code with:
+* data analysis
+* custom implementation of NLP models based on **RNN** and **transformer** architectures
+* model training
+* examples of model outputs, metrics
+* instructions (in the last section) on **downloading and using the best trained model** 
+  from HuggingFace Hub.
 
-В файле [vocab.py](./vocab.py) находится код для преобразования (токенизации) текстовых данных.
+The file [vocab.py](./vocab.py) contains code for transforming (tokenizing) textual data.

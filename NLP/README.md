@@ -1,9 +1,9 @@
 # NLP
 
-В данном разделе представлены следующие работы в сфере **Natural language processing** (NLP) — обработка естественного
-языка:
-* [Distributed ML](./Distributed%20ML): **параллельное обучение модели GloVe** для получения
-векторных представлений (_эмбедингов_) слов.
-* [Machine Translation](./Machine%20Translation): **собственная реализация** нескольких типов **RNN** моделей (LSTM и GRU), 
-а также _дообучение_ модели архитектуры **трансформер (Transformer)** для **машинного перевода** с английского на
-русский язык.
+This section presents the following works in the field of 
+**Natural Language Processing** (_NLP_):
+* [Distributed ML](./Distributed%20ML): **parallel training** of the **GloVe** model 
+  to obtain vector representations (**embeddings**) of words.
+* [Machine Translation](./Machine%20Translation): custom implementation of several 
+  types of **RNN models** (_LSTM and GRU_), as well as **fine-tuning of a transformer** 
+  architecture model for **machine translation** from English to Russian.
